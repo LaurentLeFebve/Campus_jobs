@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Einlasskontrolle",
+    "salary": "30 CHF",
+    "workTime": "08:00 - 16:00",
+    "date": "12.12.23",
+    "description": "Irgendeine genauere Beschreibung des Jobs.",
+    "prerequisites": "Interne Ausbildung"
+  },
+  {
+    "id": 2,
+    "title": "Welcome Desk",
+    "salary": "28 CHF",
+    "workTime": "10:00 - 12:00",
+    "date": "01.12.23 - 01.02.24",
+    "description": "Irgendeine genauere Beschreibung des Jobs."
+  },
+  {
+    "id": 3,
+    "title": "ASVZ Kontrolle",
+    "salary": "31 CHF",
+    "workTime": "18:00 - 19:30",
+    "date": "17.12.23",
+    "description": "Irgendeine genauere Beschreibung des Jobs."
+  },
+  {
+    "id": 4,
+    "title": "Teaching Assistant",
+    "salary": "25 CHF",
+    "workTime": "08:30 - 11:00",
+    "date": "12.11.24",
+    "description": "Irgendeine genauere Beschreibung des Jobs.",
+    "prerequisites": "Notenschnitt 5.0 oder höher"
+  },
+  {
+    "id": 5,
+    "title": "Reinigungskraft",
+    "salary": "34 CHF",
+    "workTime": "13:00 - 19:00",
+    "date": "03.02.23",
+    "description": "Irgendeine genauere Beschreibung des Jobs."
+  }
+]
